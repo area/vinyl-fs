@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "brfs": "^1.4.1",
-    "duplexify": "^3.2.0",
+    "duplexify": "^3.4.6",
     "glob-stream": "^5.0.0",
     "graceful-fs": "^4.0.0",
     "gulp-sourcemaps": "^1.5.2",
